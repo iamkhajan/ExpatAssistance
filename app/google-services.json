@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "331700939926",
+    "project_id": "firebase-expatassistance"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331700939926:android:b48adfad60b2d8e1",
+        "android_client_info": {
+          "package_name": "com.example.khajan.expatassistance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331700939926-u3ae4he06oj2elnik4r23um6l28qq3n4.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "331700939926-903h795t4ejbagje22u62071fs89ktqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khajan.expatassistance",
+            "certificate_hash": "87c9111dc5c36f81e1eb4651c3d9c06404d73da1"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8oTn45c2fyxbnIvi520hQ8_c3MdVyEEA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Expat Assistance</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_explore">Explore</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_notifications">Notification</string>
+    <string name="menu_concerned">Concerned</string>
+    <string name="text_home">Home</string>
+    <string name="text_explore">Explore</string>
+    <string name="text_notifications">Notification</string>
+    <string name="text_concerned">Interested</string>
+    <string name="text_search">Search</string>
+    <string name="default_explore_here">Explore Here</string>
+    <string name="default_description">Default description</string>
+    <string name="default_user_name">User</string>
+    <string name="search_title">Search</string>
+
+
+    <string name="facebook_app_id">143599353071459</string>
+    <string name="fb_login_protocol_scheme">fb143599353071459</string>
+
+
+
+</resources>

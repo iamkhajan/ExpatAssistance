@@ -1,0 +1,85 @@
+{
+  "refresh_time":"NA",
+  "meta_data":"NA",
+  "events":[
+    {
+      "title":"Yelapa Jalisco",
+      "category":"promotion",
+      "image_url":"http://marscdn.micromaxinfo.com/TA/AU/11/Banner.png",
+      "description":"Its a beach festival where everybody comes to have fun",
+      "premium":false,
+      "location":"guadalajara",
+      "country":"Mexico",
+      "rating":4,
+      "price":"",
+      "currency":"MX",
+      "isFavorite":false
+    },
+
+    {
+      "title":"Tepic Nayarit",
+      "category":"entertainment",
+      "image_url":"http://marscdn.micromaxinfo.com/TA/AU/16/Banner.png",
+      "description":"Its a beach festival where everybody comes to have fun",
+      "premium":false,
+      "location":"guadalajara",
+      "country":"Mexico",
+      "rating":3,
+      "price":"",
+      "currency":"MX",
+      "isFavorite":true
+    },
+    {
+      "title":"Boca de Iguana",
+      "category":"NA",
+      "image_url":"http://marscdn.micromaxinfo.com/TA/AU/11/Banner.png",
+      "description":"Its a beach festival where everybody comes to have fun",
+      "premium":false,
+      "location":"guadalajara",
+      "country":"Mexico",
+      "rating":5,
+      "price":"",
+      "currency":"MX",
+       "isFavorite":false
+    },
+    {
+      "title":"Mazamitla",
+      "category":"NA",
+      "image_url":"http://marscdn.micromaxinfo.com/TA/AU/11/Banner.png",
+      "description":"Its a beach festival where everybody comes to have fun",
+      "premium":false,
+      "location":"guadalajara",
+      "country":"Mexico",
+      "rating":4,
+      "price":"",
+      "currency":"MX",
+      "isFavorite":false
+    },
+         {
+           "title":"Tapalpa Jalisco",
+           "category":"NA",
+           "image_url":"http://marscdn.micromaxinfo.com/TA/AU/11/Banner.png",
+           "description":"Its a beach festival where everybody comes to have fun",
+           "premium":false,
+           "location":"guadalajara",
+           "country":"Mexico",
+           "rating":4,
+           "price":"",
+           "currency":"MX",
+            "isFavorite":true
+         },
+          {
+          "title":"Hello Khajan this is custom",
+          "category":"NA",
+          "image_url":"http://marscdn.micromaxinfo.com/TA/AU/16/Banner.png",
+          "description":"Its a beach festival where everybody comes to have fun",
+          "premium":false,
+          "location":"guadalajara",
+          "country":"Mexico",
+          "rating":4,
+          "price":"",
+          "currency":"MX",
+          "isFavorite":false
+          }
+  ]
+}
