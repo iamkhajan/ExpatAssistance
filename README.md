@@ -1,2 +1,2 @@
 # ExpatAssistance
-this is to help expats in other countries
+This Application will help expats in other countries.
